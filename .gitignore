@@ -142,3 +142,19 @@ wandb/
 # asdf tool versions
 .tool-versions
 /.ruff_cache/
+data/dialog.txt
+data/dialog1.txt
+data/dialog2.txt
+data/prepare_data.py
+data/sample_data/1.txt
+data/sample_data/2.txt
+data/sample_data/3.txt
+data/sample_data/4.txt
+data/sample_data/5.txt
+data/sample_data/6.txt
+data/sample_data/7.txt
+data/sample_data/8.txt
+data/sample_data/9.txt
+data/sample_data/10.txt
+ai_service.py
+data/sample_data/excel/zixun_qa.xlsx
